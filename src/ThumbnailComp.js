@@ -18,5 +18,6 @@ export class ThumbnailComp extends Component {
             </div>
         )
     }
-
 }
+
+

@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import {ThumbnailComp} from './ThumbnailComp'
 const BASE_URL = 'https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6/albums?';
 const FETCH_URL = BASE_URL + 'market=ES&album_type=single&limit=10';
-const accessToken = 'BQDq4glFukWSl1fBTAYnkT5-9cX80QnHD3qDiNv6hBkMYlEoI60wYF8G7UDOYyuy-5oIg7azaS5kRyBD8zu64JZc0FK8jHSqJX1M3WSp8p6_xWb4eq8C9voUcABOK-jHJ_zYzzfJeVxbc9NbcgCuCaSyAJyBOw'
+const accessToken = 'BQDVTxl3-qHjkoy2FavSGIJZB030z_W9UE4AGGChFiMZJR_JfI5PYORt0ZncUarSTKdClfybz2tJ4hqP6DNQUP2aA0pdBEX7p1Xgaufnfi3vM5TKlMRoMNgXIWWNjcIf_tWrIbrXsaihAAbcwQW5SMImA5AHBg'
 let myOptions = {
     method: 'GET',
     headers: {

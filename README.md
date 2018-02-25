@@ -4,17 +4,14 @@
 
 Use the Spotify REST API (https://developer.spotify.com/web-api/) to retrieve results from the https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy/albums endpoint.
 
+##Requirements:
 
-## Table Of Contents
-<hr/>
+- List the first 10 albums returned.
+- Show the album thumbnail picture
+- Show the album name
+- Clicking on the “open” button opens the album in Spotify
 
-Requirements:
-
-List the first 10 albums returned.
-Show the album thumbnail picture
-Show the album name
-
-## App is responsive
+# App is responsive
 
 # Getting Access Token from Spotify
 
@@ -42,7 +39,6 @@ In order to run the different examples, open the folder with the name of the flo
 
     $ cd album_app
     $ npm test
-
 
 
 
